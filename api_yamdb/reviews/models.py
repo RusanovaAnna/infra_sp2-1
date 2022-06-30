@@ -31,7 +31,7 @@ class Title(models.Model):
     genre = models.ManyToManyField(
         Genre, related_name='titles', blank=True
     )
-    
+
     def get_genres(self):
         return "\n".join([g.genres for g in self.genre.all()])
 
