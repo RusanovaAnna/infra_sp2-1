@@ -22,6 +22,7 @@ class ReviewAdmin(admin.ModelAdmin):
 class CommentAdmin(admin.ModelAdmin):
     list_display = ('review', 'author', 'text')
 
+
 admin.site.register(Category, CategoryAdmin)
 admin.site.register(Genre, GenreAdmin)
 admin.site.register(Title, TitleAdmin)
