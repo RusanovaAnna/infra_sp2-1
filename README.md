@@ -205,3 +205,7 @@ docker-compose exec web python manage.py dumpdata > дамп_бд.json
 - Владимирский Игорь [GitHub профиль](https://github.com/letulip)
 - Ахметжанов Ильдар [GitHub профиль](https://github.com/ma9or)
 - Васильев Константин [GitHub профиль](https://github.com/Konstantin8891)
+
+89670253660@mail.ru
+
++79117836285 WhatsApp, Telegram
